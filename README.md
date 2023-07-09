@@ -1,2 +1,2 @@
 # Programming
-Learnig Programming Language
+Learning Programming Language
