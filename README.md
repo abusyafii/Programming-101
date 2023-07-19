@@ -1,2 +1,2 @@
-# Programming
-Learning Programming Language
+# Programming 101
+Learning Programming Languages
